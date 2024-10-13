@@ -24,7 +24,7 @@
 
 ## Descrição do Projeto
 
-    Este projeto é um site de rifas desenvolvido para o cliente Lokinho. O site foi construído com uma arquitetura completa, incluindo front-end e back-end. O front-end foi desenvolvido utilizando React com Next.js, enquanto o back-end foi implementado com Express, Prisma e PostgreSQL. A infraestrutura foi configurada utilizando Docker e Nginx. O site também possui integração com Twitch e Mercado Pago.
+Este projeto é um site de rifas desenvolvido para o cliente Lokinho. O site foi construído com uma arquitetura completa, incluindo front-end e back-end. O front-end foi desenvolvido utilizando React com Next.js, enquanto o back-end foi implementado com Express, Prisma e PostgreSQL. A infraestrutura foi configurada utilizando Docker e Nginx. O site também possui integração com Twitch e Mercado Pago.
 
 ## Funcionalidades
 
@@ -48,11 +48,10 @@
   <br>Email: leandro.fcode@gmail.com
 
 ## Sobre Mim
-  <p>Meu nome é Hugo Rodrigues Costa, sou desenvolvedor full stack com experiência em construir aplicações web modernas e escaláveis. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento.</p>
+Meu nome é Hugo Rodrigues Costa, sou desenvolvedor full stack com experiência em construir aplicações web modernas e escaláveis. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento.
 
 ## Contato
-  <p>Se você tiver alguma dúvida ou quiser discutir o projeto, sinta-se à vontade para entrar em contato comigo:</p>
-  
+Se você tiver alguma dúvida ou quiser discutir o projeto, sinta-se à vontade para entrar em contato comigo:
 - **Email:** hugorodriguescosta1@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/hugo-r-costa/](https://www.linkedin.com/in/hugo-r-costa/)
 - **GitHub:** [https://github.com/hardkill551](https://github.com/hardkill551)
