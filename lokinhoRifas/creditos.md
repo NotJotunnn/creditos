@@ -48,10 +48,11 @@
   <br>Email: leandro.fcode@gmail.com
 
 ## Sobre Mim
-    Meu nome é Hugo Rodrigues Costa, sou desenvolvedor full stack com experiência em construir aplicações web modernas e escaláveis. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento.
+  <p>Meu nome é Hugo Rodrigues Costa, sou desenvolvedor full stack com experiência em construir aplicações web modernas e escaláveis. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento.</p>
 
 ## Contato
-    Se você tiver alguma dúvida ou quiser discutir o projeto, sinta-se à vontade para entrar em contato comigo:
+  <p>Se você tiver alguma dúvida ou quiser discutir o projeto, sinta-se à vontade para entrar em contato comigo:</p>
+  
 - **Email:** hugorodriguescosta1@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/hugo-r-costa/](https://www.linkedin.com/in/hugo-r-costa/)
 - **GitHub:** [https://github.com/hardkill551](https://github.com/hardkill551)
